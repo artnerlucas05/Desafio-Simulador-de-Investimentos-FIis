@@ -8,6 +8,7 @@ Este simulador permite aos investidores:
 💰 Calcular rendimentos mensais e anualizados
 📊 Analisar a diversificação de investimentos
 🎯 Simular cenários futuros de investimento
+ Calcular quantas cotas comprar de cada fundo
 
 🏆 Desafio DIO/Santander
 Projeto desenvolvido como parte do bootcamp "IA e Dados" oferecido pela DIO em parceria com o Santander. O desafio propunha a criação de uma ferramenta prática para auxiliar na gestão de investimentos utilizando recursos de análise de dados.
